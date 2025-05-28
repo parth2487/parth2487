@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Microservices in Node.js<br>👨‍🎓 All my projects are available at https://github.com/parth2487<br>💬 Ask me about Node.js , React.js , React Native<br>🙋‍♂️ How to reach me parthranipa12@gmail.com<br>📃 Know about my experience
+🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently doing software engineering trainee at surekha technologies<br>👨‍🎓 All my projects are available at https://github.com/parth2487<br>💬 Ask me about Node.js ,Spring Boot, React.js <br>🙋‍♂️ How to reach me parthranipa12@gmail.com<br>📃 Know about my experience
 
 
 ## 🌐 Socials:
